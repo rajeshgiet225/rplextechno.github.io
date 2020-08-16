@@ -1,0 +1,43 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.prlextechno.com" resolutions="1x" timestamp="1597409476451">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4260233667" ref="galleries:products:on-grid-systems:contact:services:index:street-lights:solar-heater"/>
+    <file name="galleries.css" crc="4086249066" ref="galleries"/>
+    <file name="products.css" crc="122233172" ref="products"/>
+    <file name="on-grid-systems.css" crc="122233172" ref="on-grid-systems"/>
+    <file name="contact.css" crc="3862832689" ref="contact"/>
+    <file name="services.css" crc="4226121832" ref="services"/>
+    <file name="index.css" crc="122233172" ref="index"/>
+    <file name="street-lights.css" crc="122233172" ref="street-lights"/>
+    <file name="solar-heater.css" crc="122233172" ref="solar-heater"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="products:services:street-lights:galleries:contact:solar-heater:on-grid-systems:index"/>
+    <file name="museutils.js" crc="3939489907" ref="products:services:street-lights:galleries:contact:solar-heater:on-grid-systems:index"/>
+    <file name="whatinput.js" crc="86476730" ref="products:services:street-lights:galleries:contact:solar-heater:on-grid-systems:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="products:services:street-lights:galleries:contact:solar-heater:on-grid-systems:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="products:services:street-lights:galleries:contact:solar-heater:on-grid-systems:index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="products:services:street-lights:galleries:contact:solar-heater:on-grid-systems:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="products:services:street-lights:galleries:contact:solar-heater:on-grid-systems:index"/>
+    <file name="require.js" crc="4177726516" ref="products:services:street-lights:galleries:contact:solar-heater:on-grid-systems:index"/>
+    <file name="webpro.js" crc="3856315280" ref="contact"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u1296.php" crc="253745004" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="xd4d1-u99.png" crc="28923103" ref="products:services:street-lights:galleries:contact:solar-heater:on-grid-systems:index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+  </folder>
+  <file name="products.html" crc="4145839905" seo="true" mt="1597402520245" redirect="true"/>
+  <file name="services.html" crc="129850421" seo="true" mt="1597407068800" redirect="true"/>
+  <file name="street-lights.html" crc="3901216096" seo="true" mt="1597402520245" redirect="true"/>
+  <file name="galleries.html" crc="4060811765" seo="true" mt="1597405209746" redirect="true"/>
+  <file name="contact.html" crc="496786660" seo="true" mt="1597409339695" redirect="true"/>
+  <file name="solar-heater.html" crc="398004404" seo="true" mt="1597402520245" redirect="true"/>
+  <file name="on-grid-systems.html" crc="4165794834" seo="true" mt="1597402520245" redirect="true"/>
+  <file name="index.html" crc="391952618" seo="true" mt="1597402520255" redirect="true"/>
+</manifest>
